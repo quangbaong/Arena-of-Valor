@@ -3,6 +3,7 @@
 ✦ File cập nhật lúc: 29/03/2026 14:04:23
 
 #=====list skin lỗi mạng khi bật unlock skin=====
+
 -->10611 : [●]Krixi Lốc xoáy kinh hoàng Tatsumaki (Recall + HeadFrame + Sound)
 
 -->10620 : [●]Krixi Phù thủy thời không (Recall + HeadFrame + Sound)
@@ -42,6 +43,7 @@
 -->19908 : [●]Elando'rr Mộng Giới Thần Chủ (Recall + HeadFrame + Sound)
 
 -->52414 : [●]Capheny Càn Nguyên Điện Chủ (Recall + HeadFrame + Sound)
+
 -->52809 : [●]Qi Milim Nava (Recall + HeadFrame + Sound)
 
 -->53806 : [●]Iggy Rimuru Tempest (Recall + HeadFrame + Sound)
