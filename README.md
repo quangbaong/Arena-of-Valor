@@ -1,5 +1,6 @@
 ✦ FIX UNLOCK SKIN AOV - ARENA OF VALOR......
 ✦ File cập nhật lúc: 29/03/2026 14:04:23
+
 #=====list skin lỗi mạng khi bật unlock skin=====
 -->10611 : [●]Krixi Lốc xoáy kinh hoàng Tatsumaki (Recall + HeadFrame + Sound)
 -->10620 : [●]Krixi Phù thủy thời không (Recall + HeadFrame + Sound)
