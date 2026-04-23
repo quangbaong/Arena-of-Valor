@@ -1,15 +1,15 @@
    ID TƯỚNG & SKINS ARENA OF VALOR
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-✦ File cập nhật lúc: 13/04/2026 02:06:59
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+✦ File cập nhật lúc: 23/04/2026 15:25:49
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 (*) Chú Thích :
 • HeadFrame: Viền tr.phục, skin:
 • Recall: Hiệu ứng biến về:
 • [●]: Tr.phục có hiệu ứng:
 • [○]: Tr.phục không có hiệu ứng:
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
     =====Make Tool By Baong19=====
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 105_LianPo
 -->10501 : [○]Toro Đặc cảnh NYPD
@@ -52,6 +52,7 @@
 -->10712 : [○]Zephys Nghệ nhân đồ chơi
 -->10713 : [●]Zephys 10713 (Recall + HeadFrame + Sound)
 -->10714 : [●]Zephys Kỷ Nguyên Hổ Phách (Recall + HeadFrame + Sound)
+-->10715 : [●]Zephys Chị đại Gangster (Sound)
 -->
 108_MoDi
 -->10801 : [●]Gildur Tiệc bãi biển (Recall + Sound)
@@ -109,7 +110,7 @@
 -->11114 : [●]Violet Lam tước (Sound)
 -->11115 : [●]Violet Thần Long tỷ tỷ (Recall + HeadFrame + Sound)
 -->11116 : [●]Violet DJ Câu hồn (Sound)
--->11117 : [○]Violet Bách hoa tiên nữ
+-->11117 : [○]Violet Hoa thủy tiên
 -->11119 : [●]Violet Vọng nguyệt Long Cơ (Recall + HeadFrame + Sound)
 -->11120 : [●]Violet Nobara Kugisaki (Recall + Sound)
 -->11121 : [○]Violet Nữ quản thú
@@ -351,7 +352,7 @@
 -->13211 : [●]Hayate Mãnh hổ kim cang (Sound)
 -->13212 : [●]Hayate Thống soái Dạ Ưng (Recall + Sound)
 -->13213 : [●]Hayate Siêu đạo chích Kid (Recall + HeadFrame + Sound)
--->13214 : [○]Hayate Đầu bếp điểm tâm
+-->13214 : [○]Hayate Đầu bếp Yakitori
 -->
 133_DiRenJie
 -->13301 : [○]Valhein Hoàng tử quạ
@@ -655,6 +656,7 @@
 -->16909 : [●]Slimz "Siêu Cấp Tối Thượng" (Recall + Sound)
 -->16910 : [●]Slimz Linh Hoa đạo sĩ (Sound)
 -->16911 : [●]Slimz Thỏ săn Ác mộng (Sound)
+-->16912 : [○]Slimz Cam siêu quậy
 -->
 170_LiuBei
 -->17001 : [○]Moren Anh thợ điện
@@ -767,6 +769,7 @@
 -->18712 : [●]Arum Thần phong Thống lĩnh (Sound)
 -->18713 : [○]Arum Thần tượng nhạc rock
 -->18714 : [●]Arum Ký Ức Đại Dương (Sound)
+-->18715 : [●]Arum Chị đại Gangster (Sound)
 -->
 189_GuiGuZi
 -->18901 : [○]Krizzix Cún siêu quậy
@@ -952,6 +955,7 @@
 -->50807 : [○]Wisp Cô bé bút chì
 -->50808 : [○]Wisp Bé hề
 -->50809 : [○]Wisp Tiểu Ronin
+-->50810 : [●]Wisp Hành Trình Kỳ Ảo (Sound)
 -->
 509_Ybneth
 -->50901 : [○]Y'bneth Hạt trưởng kiểm lâm
@@ -1298,6 +1302,7 @@
 -->54205 : [○]Tachi Thần phong Hộ vệ
 -->54206 : [○]Tachi Hỗn mang đao
 -->54208 : [○]Tachi Thần thoại Hy Lạp
+-->54209 : [●]Tachi Cần Thủ Cyborg (Sound)
 -->
 543_Yao
 -->54301 : [●]Aya Hoạt náo viên (Sound)
