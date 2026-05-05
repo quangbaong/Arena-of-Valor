@@ -1,6 +1,6 @@
    ID TƯỚNG & SKINS ARENA OF VALOR
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-✦ File cập nhật lúc: 23/04/2026 15:25:49
+✦ File cập nhật lúc: 02/05/2026 23:23:40
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 (*) Chú Thích :
 • HeadFrame: Viền tr.phục, skin:
@@ -512,6 +512,7 @@
 -->15013 : [●]Nakroth Quỷ thương Liệp đế (Recall + HeadFrame + Sound)
 -->15014 : [●]Nakroth Producer Tia chớp (Sound)
 -->15015 : [●]Nakroth Bạch Diện chiến thương (Recall + HeadFrame + Sound)
+-->15016 : [●]Nakroth Levi (Recall + Sound)
 -->
 152_WangZhaoJun
 -->15201 : [○]Điêu Thuyền Nữ vương anh đào
@@ -671,6 +672,7 @@
 -->17104 : [○]Cresht Tiệc bãi biển
 -->17106 : [●]Cresht Bách tướng Lão tam (Recall + Sound)
 -->17107 : [●]Cresht Caesar bão tố (Sound)
+-->17108 : [●]Cresht Eren Jaegar (Recall + Sound)
 -->
 173_LiYuanFang
 -->17301 : [○]Fennik Nhà thám hiểm
@@ -1165,6 +1167,7 @@
 -->52806 : [●]Qi Búp bê Daruma (Sound)
 -->52808 : [●]Qi Thần phong Hiệp nữ (Sound)
 -->52809 : [●]Qi Milim Nava (Recall + HeadFrame + Sound)
+-->52810 : [●]Qi Annie Leonhart (Sound)
 -->
 529_Volkath
 -->52901 : [○]Volkath Dạ huyết tộc
@@ -1251,6 +1254,7 @@
 -->53608 : [●]Aoi Sát thủ Dạ Ưng (Sound)
 -->53609 : [●]Aoi Quán Quân (Sound)
 -->53611 : [●]Aoi Bách thú triều Long (Sound)
+-->53612 : [●]Aoi Mikasa (Recall + Sound)
 -->
 537_Trip
 -->53701 : [●]Allain Hắc kiếm sĩ Kirito (HeadFrame + Sound)
@@ -1349,6 +1353,7 @@
 -->
 563_HaiNuo
 -->56301 : [●]Heino Nhật Ký Tình Yêu (HeadFrame + Sound)
+-->56302 : [○]Heino Scout Regiment
 -->
 567_AiLin
 -->56701 : [○]Erin Mộc tinh linh
